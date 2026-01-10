@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 # Titulo de la aplicacion
-st.title("Dashboard de ventas (Usando muestra)")
+st.title("Dashboard de ventas")
 tab1, tab2, tab3, tab4 = st.tabs(["Visión Global", "Por tienda", "Por estado", "Sorpresa"])
 
 
@@ -141,6 +141,7 @@ with tab4:
 st.caption("© 2025 - MTeresa Sangil Terrés - 202407108")
 
     
+
 
 
 
