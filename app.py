@@ -128,7 +128,8 @@ with tab4:
     producto_festivo = df_festivo_sel.groupby("family")["sales"].sum().sort_values(ascending=False)
     st.subheader(f"Producto más vendido durante el tipo de festivo {festivo_sel}: {producto_festivo.index[0]}")
 
-st.caption("© 2025 - MTeresa Sangil Terrés")
+st.caption("© 2025 - MTeresa Sangil Terrés - 202407108")
 
     
+
 
