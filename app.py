@@ -24,8 +24,8 @@ with zipfile.ZipFile(archivo2_zip, "r") as zip_ref:
 @st.cache_data 
 def cargar_datos():
     # Carga de datos costosa    
-    parte1 = pd.read_csv("parte_1.csv",parse_dates=["date"], index_col=0)    
-    parte2 = pd.read_csv("parte_2.csv",parse_dates=["date"], index_col=0)
+    parte1 = pd.read_csv("parte_1.csv",usecols=columnas_necesarias,parse_dates=["date"], index_col=0)    
+    parte2 = pd.read_csv("parte_2.csv",usecols=columnas_necesarias,parse_dates=["date"], index_col=0)
     return parte1, parte2
 parte1, parte2 = cargar_datos()
 df = df_combined = pd.concat([parte1, parte2], ignore_index=True)  # Junto para tener un unico df
@@ -144,6 +144,7 @@ st.caption("© 2025 - MTeresa Sangil Terrés - 202407108")
 
 
     
+
 
 
 
