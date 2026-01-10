@@ -1,0 +1,101 @@
+id,date,store_nbr,family,sales,onpromotion,holiday_type,locale,locale_name,description,transferred,dcoilwtico,city,state,store_type,cluster,transactions,year,month,week,quarter,day_of_week
+0,2013-01-01,1,AUTOMOTIVE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+1,2013-01-01,1,BABY CARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+2,2013-01-01,1,BEAUTY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+3,2013-01-01,1,BEVERAGES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+4,2013-01-01,1,BOOKS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+5,2013-01-01,1,BREAD/BAKERY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+6,2013-01-01,1,CELEBRATION,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+7,2013-01-01,1,CLEANING,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+8,2013-01-01,1,DAIRY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+9,2013-01-01,1,DELI,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+10,2013-01-01,1,EGGS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+11,2013-01-01,1,FROZEN FOODS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+12,2013-01-01,1,GROCERY I,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+13,2013-01-01,1,GROCERY II,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+14,2013-01-01,1,HARDWARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+15,2013-01-01,1,HOME AND KITCHEN I,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+16,2013-01-01,1,HOME AND KITCHEN II,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+17,2013-01-01,1,HOME APPLIANCES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+18,2013-01-01,1,HOME CARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+19,2013-01-01,1,LADIESWEAR,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+20,2013-01-01,1,LAWN AND GARDEN,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+21,2013-01-01,1,LINGERIE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+22,2013-01-01,1,"LIQUOR,WINE,BEER",0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+23,2013-01-01,1,MAGAZINES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+24,2013-01-01,1,MEATS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+25,2013-01-01,1,PERSONAL CARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+26,2013-01-01,1,PET SUPPLIES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+27,2013-01-01,1,PLAYERS AND ELECTRONICS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+28,2013-01-01,1,POULTRY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+29,2013-01-01,1,PREPARED FOODS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+30,2013-01-01,1,PRODUCE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+31,2013-01-01,1,SCHOOL AND OFFICE SUPPLIES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+32,2013-01-01,1,SEAFOOD,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,D,13,,2013,1,1,1,Tuesday
+33,2013-01-01,10,AUTOMOTIVE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+34,2013-01-01,10,BABY CARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+35,2013-01-01,10,BEAUTY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+36,2013-01-01,10,BEVERAGES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+37,2013-01-01,10,BOOKS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+38,2013-01-01,10,BREAD/BAKERY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+39,2013-01-01,10,CELEBRATION,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+40,2013-01-01,10,CLEANING,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+41,2013-01-01,10,DAIRY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+42,2013-01-01,10,DELI,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+43,2013-01-01,10,EGGS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+44,2013-01-01,10,FROZEN FOODS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+45,2013-01-01,10,GROCERY I,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+46,2013-01-01,10,GROCERY II,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+47,2013-01-01,10,HARDWARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+48,2013-01-01,10,HOME AND KITCHEN I,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+49,2013-01-01,10,HOME AND KITCHEN II,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+50,2013-01-01,10,HOME APPLIANCES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+51,2013-01-01,10,HOME CARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+52,2013-01-01,10,LADIESWEAR,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+53,2013-01-01,10,LAWN AND GARDEN,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+54,2013-01-01,10,LINGERIE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+55,2013-01-01,10,"LIQUOR,WINE,BEER",0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+56,2013-01-01,10,MAGAZINES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+57,2013-01-01,10,MEATS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+58,2013-01-01,10,PERSONAL CARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+59,2013-01-01,10,PET SUPPLIES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+60,2013-01-01,10,PLAYERS AND ELECTRONICS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+61,2013-01-01,10,POULTRY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+62,2013-01-01,10,PREPARED FOODS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+63,2013-01-01,10,PRODUCE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+64,2013-01-01,10,SCHOOL AND OFFICE SUPPLIES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+65,2013-01-01,10,SEAFOOD,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Quito,Pichincha,C,15,,2013,1,1,1,Tuesday
+66,2013-01-01,11,AUTOMOTIVE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+67,2013-01-01,11,BABY CARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+68,2013-01-01,11,BEAUTY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+69,2013-01-01,11,BEVERAGES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+70,2013-01-01,11,BOOKS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+71,2013-01-01,11,BREAD/BAKERY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+72,2013-01-01,11,CELEBRATION,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+73,2013-01-01,11,CLEANING,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+74,2013-01-01,11,DAIRY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+75,2013-01-01,11,DELI,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+76,2013-01-01,11,EGGS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+77,2013-01-01,11,FROZEN FOODS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+78,2013-01-01,11,GROCERY I,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+79,2013-01-01,11,GROCERY II,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+80,2013-01-01,11,HARDWARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+81,2013-01-01,11,HOME AND KITCHEN I,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+82,2013-01-01,11,HOME AND KITCHEN II,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+83,2013-01-01,11,HOME APPLIANCES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+84,2013-01-01,11,HOME CARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+85,2013-01-01,11,LADIESWEAR,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+86,2013-01-01,11,LAWN AND GARDEN,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+87,2013-01-01,11,LINGERIE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+88,2013-01-01,11,"LIQUOR,WINE,BEER",0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+89,2013-01-01,11,MAGAZINES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+90,2013-01-01,11,MEATS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+91,2013-01-01,11,PERSONAL CARE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+92,2013-01-01,11,PET SUPPLIES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+93,2013-01-01,11,PLAYERS AND ELECTRONICS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+94,2013-01-01,11,POULTRY,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+95,2013-01-01,11,PREPARED FOODS,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+96,2013-01-01,11,PRODUCE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+97,2013-01-01,11,SCHOOL AND OFFICE SUPPLIES,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+98,2013-01-01,11,SEAFOOD,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Cayambe,Pichincha,B,6,,2013,1,1,1,Tuesday
+99,2013-01-01,12,AUTOMOTIVE,0.0,0,Holiday,National,Ecuador,Primer dia del ano,False,,Latacunga,Cotopaxi,C,15,,2013,1,1,1,Tuesday
