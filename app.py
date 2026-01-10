@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-
+import gdown
 
 st.set_page_config(
     page_title="Dashboard Ventas",
@@ -11,12 +11,17 @@ st.set_page_config(
 st.title("Dashboard de ventas (Usando muestra)")
 tab1, tab2, tab3, tab4 = st.tabs(["Visión Global", "Por tienda", "Por estado", "Sorpresa"])
 
+parte1_url = "https://drive.google.com/uc?export=download&confirm=1&id=1LopUP7VvGKway-KFgSl1XAMhvdoa7iJD"
+gdown.download(parte1_url, "parte1_p.csv", quiet=False)
+
+parte2_url = "https://drive.google.com/uc?export=download&confirm=1&id=1yTmQBQtOL9Z1EVqB4-DphYpJkcZYrn3n"
+gdown.download(parte2_url, "parte2_p.csv", quiet=False)
 
 @st.cache_data 
 def cargar_datos():
-    # Carga de datos costosa    
-    parte1 = pd.read_csv("parte_1sample.csv",parse_dates=["date"], index_col=0)    
-    parte2 = pd.read_csv("parte_2sample.csv",parse_dates=["date"], index_col=0)
+    # Carga de datos costosa
+    parte2 = pd.read_csv("parte2_p.csv", index_col=0)
+    parte1 = pd.read_csv("parte1_p.csv", index_col=0)
     return parte1, parte2
 parte1, parte2 = cargar_datos()
 df = df_combined = pd.concat([parte1, parte2], ignore_index=True)  # Junto para tener un unico df
@@ -135,6 +140,7 @@ st.caption("© 2025 - MTeresa Sangil Terrés - 202407108")
 
 
     
+
 
 
 
