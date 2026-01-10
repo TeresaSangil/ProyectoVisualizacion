@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import streamlit as st
-import pandas as pd
 import zipfile
 
 st.set_page_config(
@@ -146,6 +144,7 @@ st.caption("© 2025 - MTeresa Sangil Terrés - 202407108")
 
 
     
+
 
 
 
