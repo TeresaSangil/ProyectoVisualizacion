@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
-import gdown
+import streamlit as st
+import pandas as pd
+import zipfile
 
 st.set_page_config(
     page_title="Dashboard Ventas",
@@ -10,18 +12,22 @@ st.set_page_config(
 # Titulo de la aplicacion
 st.title("Dashboard de ventas (Usando muestra)")
 tab1, tab2, tab3, tab4 = st.tabs(["Visión Global", "Por tienda", "Por estado", "Sorpresa"])
+columnas_necesarias = ['date', 'store_nbr', 'family', 'sales', 'onpromotion','holiday_type', 'state', 'transactions', 'year', 'month','week', 'day_of_week']
 
-parte1_url = "https://drive.google.com/uc?export=download&confirm=1&id=1LopUP7VvGKway-KFgSl1XAMhvdoa7iJD"
-gdown.download(parte1_url, "parte1_p.csv", quiet=False)
+archivo1_zip = "parte_1.zip"
+archivo2_zip = "parte_2.zip"
+# Descomprimir
+with zipfile.ZipFile(archivo1_zip, "r") as zip_ref:
+    zip_ref.extractall()
 
-parte2_url = "https://drive.google.com/uc?export=download&confirm=1&id=1yTmQBQtOL9Z1EVqB4-DphYpJkcZYrn3n"
-gdown.download(parte2_url, "parte2_p.csv", quiet=False)
+with zipfile.ZipFile(archivo2_zip, "r") as zip_ref:
+    zip_ref.extractall()
 
 @st.cache_data 
 def cargar_datos():
-    # Carga de datos costosa
-    parte2 = pd.read_csv("parte2_p.csv", index_col=0)
-    parte1 = pd.read_csv("parte1_p.csv", index_col=0)
+    # Carga de datos costosa    
+    parte1 = pd.read_csv("parte_1.csv",parse_dates=["date"], index_col=0)    
+    parte2 = pd.read_csv("parte_2.csv",parse_dates=["date"], index_col=0)
     return parte1, parte2
 parte1, parte2 = cargar_datos()
 df = df_combined = pd.concat([parte1, parte2], ignore_index=True)  # Junto para tener un unico df
@@ -140,6 +146,7 @@ st.caption("© 2025 - MTeresa Sangil Terrés - 202407108")
 
 
     
+
 
 
 
