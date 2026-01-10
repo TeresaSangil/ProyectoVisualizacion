@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 # Titulo de la aplicacion
-st.title("Dashboard de ventas (Usando muestra)")
+st.title("Dashboard de ventas")
 tab1, tab2, tab3, tab4 = st.tabs(["Visión Global", "Por tienda", "Por estado", "Sorpresa"])
 columnas_necesarias = ['date', 'store_nbr', 'family', 'sales', 'onpromotion','holiday_type', 'state', 'transactions', 'year', 'month','week', 'day_of_week']
 
@@ -144,6 +144,7 @@ st.caption("© 2025 - MTeresa Sangil Terrés - 202407108")
 
 
     
+
 
 
 
